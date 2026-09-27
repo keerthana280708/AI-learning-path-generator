@@ -17,3 +17,8 @@ streamlit run app.py
 ```
 
 Then open the local URL shown in the terminal (usually http://localhost:8501).
+## Live Demo
+
+[Click here to view my projecr]
+
+https://ai-learning-path-generator-bwjdwg8q7ybnbjgb6tjttz.streamlit.app/
